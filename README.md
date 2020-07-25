@@ -11,9 +11,11 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Advanced Python
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...https://www.linkedin.com/in/meghna-das15/
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P
+
+# 📫 How to reach me:
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 
 # Statistics and Languages ⚙🔧📃
 [![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)
