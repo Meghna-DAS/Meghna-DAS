@@ -1,6 +1,6 @@
 
-![GitHub](https://media.tenor.com/images/2714cf06b9ae1bba27e31a30ad43997e/tenor.gif)
-# Hey everyone ! 👋🏻
+![GitHub](https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif)
+# Welcome ! 👋🏻
 
 This is Meghna here and I am currently pursuing my Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
 I am also a content writer and a graphic designer. My hobbies are photography, drawing, blogging and playing my synthesizer. I am greatly interested in learning Cyber Security
