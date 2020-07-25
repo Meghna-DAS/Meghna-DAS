@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Java
 - 🌱 I’m currently learning ...Python and Blockchain
 - 👯 I’m looking to collaborate on ...Open source projects
