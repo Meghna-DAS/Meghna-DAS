@@ -32,8 +32,14 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
   
 </p>
 
+### 🚀 Skills
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
+
 ### ⚙🔧📃 Statistics and Languages 
 [![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)
 
-### 🚀 Skills
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
+[![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/MLH-2019)
+[![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/solid-doodle)
+
+
+
