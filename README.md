@@ -16,4 +16,4 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 - ⚡ Fun fact: ..I am a workaholic :-P
 
 # Statistics and Languages ⚙🔧📃
-[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)
+[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)
