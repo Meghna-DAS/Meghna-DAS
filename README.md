@@ -38,8 +38,12 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 ### ⚙🔧📃 Statistics and Languages 
 [![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/MLH-2019)
-[![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/solid-doodle)
+### 👀 Visits on Repositories
+Repo MLH-2019 [![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/MLH-2019)
+Repo solid-doodle[![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/solid-doodle)
+Repo Python-Essentials[![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/Python-Essentials)
+Repo Blockchain-Essentials [![Visits Badge](https://badges.pufler.dev/visits/Meghna-DAS/git-badges)](https://github.com/Meghna-DAS/Blockchain-Essentials)
+
 
 
 
