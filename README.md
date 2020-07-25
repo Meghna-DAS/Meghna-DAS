@@ -1,5 +1,5 @@
 
-![GitHub](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)![GitHub](https://media.tenor.com/images/1170597818a37a7c6e3e1d4baeb6e2eb/tenor.gif)
+![GitHub](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 # Hello World! 👋🏻
 
 This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
