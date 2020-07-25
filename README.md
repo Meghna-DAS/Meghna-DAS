@@ -48,6 +48,11 @@ Repo Blockchain-Essentials  [![Visits Badge](https://badges.pufler.dev/visits/Me
 
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Meghna-DAS&repo=github-readme-stats)](https://github.com/Meghna-DAS/github-readme-stats)
+<a href="https://github.com/Meghna-DAS/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Meghna-DAS&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Meghna-DAS/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Meghna-DAS&repo=convoychat" />
+</a>
 
 
