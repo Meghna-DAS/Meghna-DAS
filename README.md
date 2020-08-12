@@ -7,7 +7,7 @@ I am also a content writer and a graphic designer. My hobbies are photography, d
 and Data Science. I am enthusiastically looking forward to contribute to open source projects through Github. 
 
 - 🔭 I’m currently working on ...Java
-- 🌱 I’m currently learning ...Python and Blockchain
+- 🌱 I’m currently learning ...AWS Cloud Computing and Cyber Security Essentials
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Advanced Python
 - 💬 Ask me about ...Anything
