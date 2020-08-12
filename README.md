@@ -10,6 +10,7 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 - 🌱 I’m currently learning ...AWS Cloud Computing and Cyber Security Essentials
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Advanced Python
+- 📃 My blogging website...https://meghnadas946940914.wordpress.com/
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P
@@ -27,7 +28,7 @@ Repo Blockchain-Essentials  [![Visits Badge](https://badges.pufler.dev/visits/Me
 
 </p>
 
-## ⚙📃 Statistics and Languages 
+## ⚙ Statistics and Languages 
 [![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats)
 
 ## 📫 How to reach me:
