@@ -29,7 +29,7 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 
 
 ## ⚙ Statistics and Languages 
-[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)]
+[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)
 
 
 
