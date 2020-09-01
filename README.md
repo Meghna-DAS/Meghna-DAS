@@ -1,5 +1,5 @@
 
-![Meghna Das Header](https://www.canva.com/design/DAEGj2qiqyI/3Nn_47z7iEKw9UtnTOhSGQ/view?utm_content=DAEGj2qiqyI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Github banner](https://user-images.githubusercontent.com/55181652/91877579-ceb0ca00-ec9b-11ea-9abb-ca7e49e306d6.png)
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
