@@ -1,5 +1,5 @@
 
-![GitHub](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)  ![GitHub](https://media.tenor.com/images/1170597818a37a7c6e3e1d4baeb6e2eb/tenor.gif)
+![GitHub](https://www.canva.com/design/DAEGj2qiqyI/3Nn_47z7iEKw9UtnTOhSGQ/view?utm_content=DAEGj2qiqyI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
