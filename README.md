@@ -15,13 +15,6 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P
 
-## 🚀 Skills
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
-
-
-## ⚙ Statistics and Languages 
-[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)
-
 ## 📫 How to reach me:
 <p align='left'>
   
@@ -30,4 +23,13 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 <a href="https://www.linkedin.com/in/meghna-das15/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
   
 </p>
+
+## 🚀 Skills
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
+
+
+## ⚙ Statistics and Languages 
+[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)]
+
+
 
