@@ -1,6 +1,6 @@
 
 ![GitHub](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)  ![GitHub](https://media.tenor.com/images/1170597818a37a7c6e3e1d4baeb6e2eb/tenor.gif)
-# Hello World! 👋🏻
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
 I am also a content writer and a graphic designer. My hobbies are photography, drawing, blogging and playing the synthesizer. I am greatly interested in learning Cyber Security
