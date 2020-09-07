@@ -1,5 +1,5 @@
 
-![Github banner](https://user-images.githubusercontent.com/55181652/91877579-ceb0ca00-ec9b-11ea-9abb-ca7e49e306d6.png)<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+![Github banner](https://user-images.githubusercontent.com/55181652/92361430-fe345c00-f10b-11ea-9f77-4afd51ddcddf.gif)<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
