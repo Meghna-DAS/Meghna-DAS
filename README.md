@@ -14,7 +14,12 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 - 📃 My blogging website...https://meghnadas946940914.wordpress.com/
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ..I am a workaholic :-P
+- ⚡ Fun fact: ..I am a workaholic :-P <br>
+
+<a href="https://github.com/Meghna-DAS?tab=followers">
+    <img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+
 
 ## 📫 How to reach me:
 <p align='left'>
@@ -30,7 +35,7 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 
 
 ## ⚙ Statistics and Languages 
-[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=Meghna-DAS)](https://github.com/Meghna-DAS/github-readme-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS)
-
-
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Meghna-DAS&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>
+<p align="center">  
+  <img src="https://profile-counter.glitch.me/BhuvaneshHingal/count.svg">
+</p>
