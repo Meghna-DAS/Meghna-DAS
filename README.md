@@ -1,3 +1,4 @@
+<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 
 ![Github banner](https://user-images.githubusercontent.com/55181652/91877579-ceb0ca00-ec9b-11ea-9abb-ca7e49e306d6.png)
 
@@ -16,10 +17,6 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P <br>
 
-<a href="https://github.com/Meghna-DAS?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
-
-
 ## 📫 How to reach me:
 <p align='left'>
   
@@ -35,6 +32,10 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 
 ## ⚙ Statistics and Languages 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Meghna-DAS&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>
-<p align="center">  
-  <img src="https://profile-counter.glitch.me/BhuvaneshHingal/count.svg">
-</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Meghna-DAS">
+</a>
+<a href="https://github.com/Meghna-DAS?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
+
