@@ -27,10 +27,11 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 ## 📫 How to reach me:
 <p align='left'>
   
-<a href="https://twitter.com/MeghnaD22132436"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/das__meghna/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/meghna-das15/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  
+<a href = "https://www.linkedin.com/in/meghna-das15/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/MeghnaD22132436"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/das__meghna/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/meghna.das15"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
 </p>
 
 ## ❤ Views and Followers
