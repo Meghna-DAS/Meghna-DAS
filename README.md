@@ -39,5 +39,4 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 </a>
 <a href="https://github.com/Meghna-DAS?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## 📃 Ownership
-<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+#### 📃 <a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
