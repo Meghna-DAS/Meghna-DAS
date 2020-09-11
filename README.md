@@ -24,7 +24,7 @@ and Data Science. I am enthusiastically looking forward to contribute to open so
 
 
 ## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Meghna-DAS&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=tokyonight"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Meghna-DAS&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-DAS&layout=compact&theme=tokyonight"> <br>
 
 ## 📫 How to reach me:
 <p align='left'>
