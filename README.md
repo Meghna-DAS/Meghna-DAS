@@ -4,7 +4,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
-I am also a content writer and a graphic designer. My hobbies are photography, drawing, blogging and playing the synthesizer. I am greatly interested in learning Mobile Application Development and Data Science. I am mostly interested in integrating healthcare with technology through text extraction and medical image processing.
+I am also a content writer and a graphic designer. My hobbies are photography, drawing, blogging and playing the synthesizer. I am mostly interested in integrating healthcare with technology through text extraction and medical image processing.
 
 - 🔭 I’m currently working on .Android Studio and Firebase
 - 🌱 I’m currently learning ...Data Science
