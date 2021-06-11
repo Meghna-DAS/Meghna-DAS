@@ -29,8 +29,8 @@ I am also a content writer and a graphic designer. My hobbies are photography, d
 <p align='left'>
   
 <a href = "https://www.linkedin.com/in/meghna-das15/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MeghnaD22132436"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/das__meghna/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/Meghna__Das_"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/meghna__das_/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/meghna.das15"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
