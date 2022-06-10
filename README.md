@@ -2,7 +2,7 @@
 ![Github banner](https://user-images.githubusercontent.com/55181652/168302326-7d1e3017-74af-4692-b70f-cb4300b2503b.png)
 <a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">
 
 This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
 I am a Community Manager,Content Writer and a Graphic Designer. My areas of expertise include developer relations, developer experience, program mangement, augmented reality and community management. My hobbies are photography, drawing, blogging and playing the synthesizer. I am mostly interested in integrating healthcare with technology through text extraction and medical image processing.
