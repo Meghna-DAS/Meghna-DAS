@@ -5,7 +5,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">
 
 This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
-I am a Community Manager,Content Writer and a Graphic Designer. My areas of expertise include developer relations, developer experience, program mangement, augmented reality and community management. My hobbies are photography, drawing, blogging and playing the synthesizer. I am mostly interested in integrating healthcare with technology through text extraction and medical image processing.
+I am a Community Manager,Content Writer and a Graphic Designer. My areas of expertise include developer relations, developer experience, program mangement, augmented reality and community management. I am an active IEEE Volunteer. My hobbies are photography, drawing, blogging and playing the synthesizer. I am mostly interested in integrating healthcare with technology through text extraction and medical image processing.
 
 - 🔭 I’m currently working on .Android Studio and Firebase
 - 🌱 I’m currently learning ...Developer Relations
