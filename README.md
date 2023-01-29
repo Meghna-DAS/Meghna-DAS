@@ -4,11 +4,10 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">
 
-This is Meghna here and I am currently pursuing Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. 
-I am a Community Manager,Content Writer and a Graphic Designer. My areas of expertise include developer relations, developer experience, program mangement, augmented reality and community management. I am an active IEEE Volunteer. My hobbies are photography, drawing, blogging and playing the synthesizer. I am mostly interested in integrating healthcare with technology through text extraction and medical image processing.
+This is Meghna here and I am currently working as an Associate Analyst at Deloitte USI. I have completed my Bachelors of Computer Applications from Symbiosis Institute of Computer Studies and Research,Pune. I have previous work experiences as a Community Manager,Content Writer and a Graphic Designer. My areas of expertise include developer relations, developer experience, program mangement,operations, augmented reality and community management. I am an active IEEE Volunteer. My hobbies are photography, drawing, blogging and playing the synthesizer. 
 
-- 🔭 I’m currently working on .Android Studio and Firebase
-- 🌱 I’m currently learning ...Developer Relations
+- 🔭 I’m currently working on ... Oracle Service Oriented Architecture
+- 🌱 I’m currently learning ...Oracle 12c SOA Development and integrations
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Data Science
 - 📃 My blogging website...https://meghnadas946940914.wordpress.com/
