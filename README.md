@@ -10,7 +10,7 @@ This is Meghna here and I am currently working as an Associate Analyst at Deloit
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Data Science
 - 📃 My blogging website... Aesthete Writings|https://aesthetewritings.wordpress.com/
--    My Portfolio website .. https://meghnaddas.wordpress.com/
+- 📃My Portfolio website .. https://meghnaddas.wordpress.com/
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P <br>
