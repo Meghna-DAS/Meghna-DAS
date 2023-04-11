@@ -1,5 +1,4 @@
-
-![Github banner](https://user-images.githubusercontent.com/55181652/168302326-7d1e3017-74af-4692-b70f-cb4300b2503b.png)
+![Github banner](https://user-images.githubusercontent.com/55181652/231075277-0334ef36-dcc2-482f-b5b9-9845a9073cde.png)
 <a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">
@@ -10,7 +9,8 @@ This is Meghna here and I am currently working as an Associate Analyst at Deloit
 - 🌱 I’m currently learning ...Oracle 12c SOA Development and integrations
 - 👯 I’m looking to collaborate on ...Open source projects
 - 🤔 I’m looking for help with ...Data Science
-- 📃 My blogging website...https://meghnadas946940914.wordpress.com/
+- 📃 My blogging website... Aesthete Writings|https://aesthetewritings.wordpress.com/
+-    My Portfolio website .. https://meghnaddas.wordpress.com/
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ..I am a workaholic :-P <br>
