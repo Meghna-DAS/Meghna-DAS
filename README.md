@@ -8,7 +8,7 @@ This is Meghna here and I am currently working as an Analyst at Deloitte USI. I 
 - 🔭 I’m currently working on ... Oracle Service Oriented Architecture
 - 🌱 I’m currently learning ...Oracle 12c SOA Development and integrations
 - 👯 I’m looking to collaborate on ...Open source projects
-- 🤔 I’m looking for help with ...Data Science
+- 🤔 I’m looking for help with ...Computer Vision and Security
 - 📃 My blogging website... Aesthete Writings|https://aesthetewritings.wordpress.com/
 - 📃My Portfolio website .. https://meghnaddas.wordpress.com/
 - 💬 Ask me about ...Anything
